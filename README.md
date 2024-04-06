@@ -1,4 +1,4 @@
-**Image Captioning System**
+# Image Captioning System
 
 This project aims to create an Image Captioning System capable of generating descriptive captions for images and videos. The system utilizes deep learning models to analyze the content of images and generate relevant textual descriptions.
 
