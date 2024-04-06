@@ -32,9 +32,9 @@ The system is trained on the MSCOCO dataset, which contains a large collection o
 
 ### References
 - Original paper on Image Captioning System.
-- MSCOCO dataset: [Link](https://cocodataset.org/#home)
-- Xceptionnet: [Link](https://arxiv.org/abs/1610.02357)
-- LSTM: [Link](https://www.bioinf.jku.at/publications/older/2604.pdf)
+- MSCOCO dataset: (https://cocodataset.org/#home)
+- Xceptionnet: (https://arxiv.org/abs/1610.02357)
+- LSTM: (https://www.bioinf.jku.at/publications/older/2604.pdf)
 
 ### License
 This project is licensed under the [MIT License](LICENSE).
